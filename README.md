@@ -16,7 +16,7 @@ A solução permite agendamentos online, cadastro de voluntários e controle dos
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 - HTML  
 - CSS  
 - JavaScript (em desenvolvimento)  
